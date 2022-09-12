@@ -1,0 +1,10 @@
+.logo{
+  font-family: 'Lobster', cursive; 
+  font-size: 2rem !important;
+  color: #133150 !important;
+}
+.card-img{
+  max-width: 300px;
+  padding: 1.5rem;
+  height: auto;
+}
